@@ -1,0 +1,30 @@
+#wrapper{
+    width: 65%;
+    margin: 0 auto;
+    background-color: lightgray;
+}
+
+#tagline{
+    margin-bottom: 20px;
+}
+
+header{
+    text-align: center;
+    background-color: #1500ff;
+    color: white;
+}
+
+nav{
+    float:right;
+    border: 1px solid black;
+    padding-left: 10px;
+    width: 29%;
+    background-color: rgb(7, 234, 230);
+}
+
+footer{
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1500ff;
+    color: white;
+}
